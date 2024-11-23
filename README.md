@@ -44,8 +44,16 @@ This project is a Complaint Management System, developed as the end-semester pro
 
 # File Structure  
 
-complaints.csv: Used to store complaints persistently. Contains complaint details such as ID, student ID, type, description, priority, status, and comments.  
+      complaints.csv: Used to store complaints persistently. Contains complaint details such as ID, student ID, type, description, priority, status, and comments.  
 
  
-main.c: The main implementation file containing all the logic and functionality.  
+      main.c: The main implementation file containing all the logic and functionality.    
+      
+# Installation and Usage
+Prerequisites  
+
+      C Compiler (e.g., GCC)  
+
+      Basic understanding of C programming and data structures.  
+
 
