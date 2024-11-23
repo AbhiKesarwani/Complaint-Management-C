@@ -56,4 +56,24 @@ Prerequisites
 
       Basic understanding of C programming and data structures.  
 
+# How the Program Works  
+
+Workflow  
+
+File Complaint: A new complaint is enqueued to the unsolved queue and written to the complaints.csv file.  
+
+Resolve Complaint: High-priority complaints are resolved first and pushed to the solved stack.  
+
+Reject Complaint: Rejected complaints are stored in a linked list for future reference.  
+
+Persist Data: Complaints are stored in the complaints.csv file to ensure data is not lost between program runs.   
+
+# Future Improvements  
+
+Add a graphical user interface (GUI) for better user experience.  
+
+Implement search and filter functionalities.  
+
+Add notification systems for complaint updates.  
+
 
