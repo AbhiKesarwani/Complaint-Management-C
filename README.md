@@ -68,12 +68,24 @@ Resolve Complaint: High-priority complaints are resolved first and pushed to the
 Reject Complaint: Rejected complaints are stored in a linked list for future reference.  
 
 Persist Data: Complaints are stored in the complaints.csv file to ensure data is not lost between program runs.   
-![File complaint](https://github.com/user-attachments/assets/894d1763-6d5c-412e-9424-c4d5501d61ad)  
+![File complaint](https://github.com/user-attachments/assets/894d1763-6d5c-412e-9424-c4d5501d61ad)   
+File Complaint  
+
 ![Solve complaint](https://github.com/user-attachments/assets/7b9de718-6778-4a4e-84ea-eb9c5e6051fd)  
-![Reject Complaint](https://github.com/user-attachments/assets/57731f98-1bfe-462b-9d9d-d8b3a3858206)  
+Solve Complaint  
+
+![Reject Complaint](https://github.com/user-attachments/assets/57731f98-1bfe-462b-9d9d-d8b3a3858206) 
+Reject Complaint  
+
 ![Password Cahnge](https://github.com/user-attachments/assets/c6195c0f-80f5-4aac-97ef-9880c2dd6aa2)  
+Password Change  
+
 ![Vice Chancellor View](https://github.com/user-attachments/assets/be112c5e-9c87-4125-b370-881fe1bed467)
+Vice Chacellor View  
+
 ![Vice Chancellor Comment](https://github.com/user-attachments/assets/bb22d840-6de3-4753-b5ee-f8461782769d)
+Vice Chancellor Comment  
+
 
 
 # Future Improvements  
