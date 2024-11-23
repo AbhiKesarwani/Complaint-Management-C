@@ -75,7 +75,7 @@ File Complaint
 Solve Complaint  
 
 ![Reject Complaint](https://github.com/user-attachments/assets/57731f98-1bfe-462b-9d9d-d8b3a3858206) 
-Reject Complaint  
+ Reject Complaint  
 
 ![Password Cahnge](https://github.com/user-attachments/assets/c6195c0f-80f5-4aac-97ef-9880c2dd6aa2)  
 Password Change  
