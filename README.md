@@ -1,11 +1,11 @@
 # Complaint-Management-C
 This project is a Complaint Management System, developed as the end-semester project for the Data Structures and Algorithms course. The system is designed to handle complaints efficiently using various data structures such as stacks, queues, and linked lists. It provides portals for students, problem solvers, and the Vice Chancellor to manage complaints.  
-Features  
+# Features  
 
 1. Student Portal
-File Complaints: Students can file complaints by providing details such as type, description, and priority.
+  File Complaints: Students can file complaints by providing details such as type, description, and priority.
 
-Track Complaints: Students can track their complaints using a unique complaint ID.  
+  Track Complaints: Students can track their complaints using a unique complaint ID.  
 
 View Complaint History: Students can view all the complaints they have filed, along with their current status.  
 
