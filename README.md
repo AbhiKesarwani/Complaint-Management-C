@@ -3,11 +3,12 @@ This project is a Complaint Management System, developed as the end-semester pro
 # Features  
 
 1. Student Portal
-  File Complaints: Students can file complaints by providing details such as type, description, and priority.
+   
+      File Complaints: Students can file complaints by providing details such as type, description, and priority.
 
-  Track Complaints: Students can track their complaints using a unique complaint ID.  
+      Track Complaints: Students can track their complaints using a unique complaint ID.  
 
-View Complaint History: Students can view all the complaints they have filed, along with their current status.  
+      View Complaint History: Students can view all the complaints they have filed, along with their current status.  
 
 2. Problem Solver Portal
 View Unsolved Complaints: View complaints that have not been resolved.
